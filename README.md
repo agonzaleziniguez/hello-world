@@ -1,3 +1,3 @@
 # hello-world
-Github tutorial
+Github tutorial;
 Starting with Github
